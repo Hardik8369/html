@@ -1,5 +1,6 @@
 # git commands
 
+```text
 git mkdir - for new folder
 cd - change directory
 touch - for new file inside the folder
@@ -38,3 +39,4 @@ git stash pop - to bring back all the stash changes to working directory and rem
 git stash list - to check list of all the saved stashes
 git stash apply -  to bring back all the stash changes to working directory but wont remove from the stash list and keep it for the feature use
 git rebase <*branch name*> - to bring the new updated to another branch without anychanges
+```
